@@ -9,7 +9,7 @@ You can find the initial documentation for the workshop sessions here:
 
 
 Session X - Code Quality
-- Part 1: Code Quality 101 - [here]([/software_workshop/code_quality/1_code_quality.md)
+- Part 1: Code Quality 101 - [here](/software_workshop/code_quality/1_code_quality.md)
 - Part 2: Introduction to Pylint - [here](/software_workshop/code_quality/2_pylint.md)
 - Part 3: Introduction to Black - [here](/software_workshop/code_quality/3_black.md)
 - Part 4: Introduction to isort - [here](/software_workshop/code_quality/4_isort.md)
