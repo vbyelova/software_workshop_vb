@@ -5,7 +5,9 @@ Workshop [URL](https://ccpbiosim.github.io/software_workshop/)
 The workshop timings are as follows:
 
 09.30-12:30 - Workshop Morning 
+
 12.30-14:00 - Lunch 
+
 14:00-17:00 - Worksop Afternoon
 
 
