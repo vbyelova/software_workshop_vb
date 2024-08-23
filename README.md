@@ -8,10 +8,12 @@ The workshop timings are as follows:
 
 12.30-14:00 - Lunch 
 
-14:00-17:00 - Worksop Afternoon
+14:00-17:00 - Workshop Afternoon
 
 
 You can find the initial steps for the workshop sessions here:
+
+Session X - Git and Version Control
 
 
 Session X - Code Quality
@@ -21,3 +23,6 @@ Session X - Code Quality
 - Part 4: Introduction to isort - [here](/code_quality/4_isort.md)
 - Part 5: Introduction to pre-commit - [here](/code_quality/5_precommit.md)
 - Part 6: Final Remarks - [here](/code_quality/6_final_remarks.md)
+
+
+Session X - Pytest and Testing Code
