@@ -13,6 +13,11 @@ The workshop timings are as follows:
 
 You can find the initial steps for the workshop sessions here:
 
+Session X - Enviornments
+
+- Part 1: Getting Started - [here](/environments/1_getting_started.md)
+- Part 2: Dependencies - [here](/environments/2_dependencies.md)
+
 Session X - Git and Version Control
 
 
