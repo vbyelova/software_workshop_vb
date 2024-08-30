@@ -5,7 +5,7 @@ We have seen now how to install various tools, a linter and two formatters to he
 
 ### Introducing pre-commit
 
-You can find a much more exhaustive look at isort in the [Documentation](https://pre-commit.com/index.html)
+You can find a much more exhaustive look at pre-commit in the [Documentation](https://pre-commit.com/index.html)
 
 Git has an interface that allows developers to extend the functionality of the application to include features beyond just version controlling code. This interface is called "hooks", git hooks are basically just a set of scripts that run at various "hooked" stages within the git workflow. For example, you can hook the commit step of the version control workflow to run tools whenever you are about to commit a new code change to your repository.
 
