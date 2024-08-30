@@ -85,11 +85,13 @@ What do you see and what does it mean?
 
 You will notice that there are listed a bunch of bad indentation warnings and a few other warnings, and you will also it grades the code out of 10, this one is pretty shocking! If you are not sure what these mean and how to fix them, then consult the [PEP 8](https://peps.python.org/pep-0008/) standard where it will tell you specifically what the code should have looked like.
 
-Activity: Use the PEP 8 standard and Pylint together to fix this code. Can you get this to zero warnings and a code score of 10?
+*Activity*: Use the PEP 8 standard and Pylint together to fix this code. Can you get this to zero warnings and a code score of 10?
 
-Activity: Can you find a random program on the internet or even one you have written yourself and apply Pylint to it?
+*Activity*: Can you find a random program on the internet or even one you have written yourself and apply Pylint to it?
 
 That is all there is to using Pylint, you can imagine, this was a small code. Imagine you had just inherited thousands of lines or tens of thousands or even a million lines of code. You aren't going to fix it all by hand any time fast, and this effort is what we call technical debt. Technical debt is a concept in programming where we measure the effort required versus the benefit of doing it, for massive code bases it would be a big effort to standardise a badly written code base.
 
 This is where the next tool comes in!
 
+[Next](3_black.md)
+[Home](../)

@@ -1,8 +1,8 @@
-## More Git
+# More Git
 
 Once you learn the basics of getting a repository and comitting changes there are some slightly more advanced features of git
 
-# Branching Models
+## Branching Models
 
 A common model has several branches:
 - "main" branch for released/stable versions of the code
@@ -24,7 +24,7 @@ git checkout <branch-name>
 ```
 to change to an existing branch.
 
-# GitHub
+## GitHub
 
 [GitHub](https://github.com) is a website that hosts repositories.
 It uses git to interact with the repositories and allows you to "fork" or copy public repositories.
@@ -37,7 +37,7 @@ See [GitHub authentication](https://docs.github.com/en/authentication/keeping-yo
 GitHub also has tools like a issue tracker where people can raise issues (for bugs, feature requests, or comments).
 The issue tracker can help you keep track of problems that have been raised and comments used for discussions.
 
-# Activity
+## Activity
 
 Create a GitHub account if you don't already have one.
 
@@ -50,3 +50,5 @@ Alternatively, if you don't want or can't get a GitHub account, you can clone th
 Make a new branch and then make changes to the example code (functions.py).
 
 Can you commit and push the changes?
+
+[Home](../)

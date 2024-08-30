@@ -13,15 +13,15 @@ The workshop timings are as follows:
 
 You can find the initial steps for the workshop sessions here:
 
-Session X - Enviornments
-
+Session 1 - Environments and Software Installation
 - Part 1: Getting Started - [here](/environments/1_getting_started.md)
 - Part 2: Dependencies - [here](/environments/2_dependencies.md)
 
-Session X - Git and Version Control
+Session 2 - Git and Version Control
+- Part 1: Version Control - [here](/version_control/1_version_control.md)
+- Part 2: Git - [here](/version_control/2_git.md)
 
-
-Session X - Code Quality
+Session 3 - Code Quality
 - Part 1: Code Quality 101 - [here](/code_quality/1_code_quality.md)
 - Part 2: Introduction to Pylint - [here](/code_quality/2_pylint.md)
 - Part 3: Introduction to Black - [here](/code_quality/3_black.md)
@@ -29,5 +29,6 @@ Session X - Code Quality
 - Part 5: Introduction to pre-commit - [here](/code_quality/5_precommit.md)
 - Part 6: Final Remarks - [here](/code_quality/6_final_remarks.md)
 
-
-Session X - Pytest and Testing Code
+Session 4 - Testing Code
+- Part 1: Testing - [here](/code_testing/1_code_testing.md)
+- Part 2: Pytest - [here](/code_testing/2_pytest.md)

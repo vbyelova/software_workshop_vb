@@ -96,6 +96,7 @@ cat 3_random_import.py
 
 You will see it is much, much more organised and easier to read.
 
-Activity: Can you find a random program on the internet or even one you have written yourself and apply isort to it?
+*Activity*: Can you find a random program on the internet or even one you have written yourself and apply isort to it?
 
-
+[Next](5_precommit.md)
+[Home](../)

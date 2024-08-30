@@ -96,7 +96,9 @@ What do you see now, compared to the very first time?
 
 You are probably noticing it has fixed a whole bunch of things but a few minor things remain. Usually things that remain will be things like the docstrings etc, since Black cannot interpret what your code is supposed to do and add documentation (though this might change in the post-chatGPT era!!!).
 
-Activity: Can you find a random program on the internet or even one you have written yourself and apply Black to it?
+*Activity*: Can you find a random program on the internet or even one you have written yourself and apply Black to it?
 
 The upshot is that you would have a lot less work to do on minor issues than if you only used Pylint and manual fixing, so the technical debt of maintaining high quality code is even lower.
 
+[Next](4_isort.md)
+[Home](../)

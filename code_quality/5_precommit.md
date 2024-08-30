@@ -192,3 +192,5 @@ git commit -m "adding some better code for the tutorial"
 
 So hopefully, now you can understand the power that these tools can bring to empower developers to write better code without having to spend lots of time learning standards first!!
 
+[Next](6_final_remarks.md)
+[Home](../)
