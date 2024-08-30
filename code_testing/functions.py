@@ -1,8 +1,15 @@
 import numpy as nmp
 
-def frequency_calculation(lamdas, temp):
+def frequency_calculation(lamda):
+    """
+    Calculate the frequency based on the equation
+    frequency = 1/(2pi) * sqrt(x)
+    """
     pi = nmp.pi
-    kt = 4.11e-21 * temp / 298
-    frequencies = 1/(2*pi) * nmp.sqrt(lamdas/kt)
+   
+    # calculate the frequency
+    frequency = 1/(pi) * nmp.sqrt(lamda)
 
-    return frequencies
+    return frequency
+
+
