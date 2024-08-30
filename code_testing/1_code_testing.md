@@ -18,7 +18,7 @@ Regression tests look at the final answer for an example input and are used to c
 
 Code coverage is a metric related to how much of your code is being tested.
 Low code coverage suggests that there are parts of the code that may or may not contain bugs.
-In this case, writting more tests is recommended.
+In this case, writing more tests is recommended.
 
 High code coverage is good, but does not guarentee that all bugs have been found.
 Some functions might need more than one test to cover all the possible input cases.

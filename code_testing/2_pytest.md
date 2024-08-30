@@ -29,6 +29,6 @@ Look at the `functions.py` code and the `test_functions.py`.
 Try running the tests. What happens?
 Can you change the code so that all the tests pass?
 
-Does the test cover all the functionality? Try writting more tests.
+Does the test cover all the functionality? Try writing more tests.
 
 [Home](../)
